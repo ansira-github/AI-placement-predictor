@@ -1,0 +1,55 @@
+# Python
+__pycache__
+.py[cod]
+$py.class
+.so
+.Python
+.egg-info
+dist
+build
+
+# Virtual Environment
+.venv
+.venv311
+venv
+env
+ENV
+
+# IDE
+.vscode
+.idea
+.swp
+.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (large files)
+.pkl
+.gguf
+models
+
+# Data files (can be large)
+.csv
+placement-dataset.csv
+new_placement_data.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit
+
+# Environment variables
+.env
+
+# Logs
+.log
+logs
+
+# Backup files
+_backup_.pkl
+
+# Training config
+training_config.json
