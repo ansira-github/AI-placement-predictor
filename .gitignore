@@ -25,7 +25,8 @@ ENV
 .ipynb_checkpoints
 
 # Model files (large files)
-.pkl
+# Note: placement_model.pkl is tracked with Git LFS for deployment
+# .pkl  # Commented out to allow model file for deployment
 .gguf
 models
 
